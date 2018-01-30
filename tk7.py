@@ -1,5 +1,7 @@
 import tkinter as tk 
-
+'''
+label 框架
+'''
 root = tk.Tk()
 
 group = tk.LabelFrame(root,text='最好的脚本语言是',padx=5,pady=5)
