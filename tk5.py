@@ -1,5 +1,7 @@
 from tkinter import *
-
+'''
+以后一定要注意多看官方文档
+'''
 root = Tk()
 
 v = IntVar()
