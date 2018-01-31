@@ -17,6 +17,10 @@ text.tag_config('tag1',background='yellow',foreground='red')
 text.tag_add('tag2','1.8','1.10')#代表tag1位1.1到1.4和1.9两个位置
 text.tag_config('tag2',background='gray',foreground='blue')
 
+text.tag_lower('tag2')
+
+
+
 tk.mainloop()
 
 
